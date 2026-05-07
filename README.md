@@ -6,20 +6,20 @@
 
 ---
 
-## 💫 About Me
+## ✨ About Me ✨
 
-🔭 I'm currently working on → TeddyNotes (an AI-powered mood journaling app with a cozy companion, Teddy)<br>
-🤝 I'm looking to collaborate on → Android projects that solve real problems<br>
-💬 Ask me about → Android dev or DSA<br>
-⚡ Fun fact → I'm an Android dev who also knows MERN<br>
-
----
-
-## 🤝 [Reach Me @](mailto:vanshikatanwar04.bpit@gmail.com)
+🔭 I'm currently working on -> TeddyNotes (an AI-powered mood journaling app with a cozy companion, Teddy)<br>
+🤝 I'm looking to collaborate on -> Android projects that solve real problems<br>
+💬 Ask me about -> Android dev or DSA<br>
+⚡ Fun fact -> I'm an Android dev who also knows MERN<br>
 
 ---
 
-## 💻 Tech Stack
+## 🤝 [Reach Me @](mailto:vanshikatanwar04.bpit@gmail.com) 🤝
+
+---
+
+## 💻 Tech Stack 💻
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
