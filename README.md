@@ -8,7 +8,7 @@
 
 ## ✨ About Me ✨
 
-🔭 I'm currently working on -> TeddyNotes (an AI-powered mood journaling app with a cozy companion, Teddy)<br>
+🔭 Recently built -> TeddyNotes (an AI-powered mood journaling app with a cozy companion, Teddy)<br>
 🤝 I'm looking to collaborate on -> Android projects that solve real problems<br>
 💬 Ask me about -> Android dev or DSA<br>
 ⚡ Fun fact -> I'm an Android dev who also knows MERN<br>
