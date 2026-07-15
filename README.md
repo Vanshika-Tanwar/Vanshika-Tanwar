@@ -8,7 +8,7 @@
 
 ## ✨ About Me ✨
 
-📱 Currently Building -> TrackIt
+📱 Currently Building -> TrackIt<br>
 🔭 Recently built -> TeddyNotes (an AI-powered mood journaling app with a cozy companion, Teddy)<br>
 🤝 I'm looking to collaborate on -> Android projects that solve real problems<br>
 💬 Ask me about -> Android dev or DSA<br>
